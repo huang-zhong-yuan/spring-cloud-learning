@@ -1,0 +1,3 @@
+logging:
+  level: 
+    com.spring.cloud.study.consumermovie.client.UserFeignClient: DEBUG
